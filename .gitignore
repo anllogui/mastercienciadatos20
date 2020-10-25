@@ -127,3 +127,17 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Project
+.mypy_cache/
+.idea/
+.pythonCI/
+.pytest_cache/
+.vscode/
+flaskr.egg-info/
+*/__pycache__/
+.coverage
+mlruns/
+nb/output\.ipynb
+venv/
+nb/\.ipynb_checkpoints/
