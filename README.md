@@ -11,10 +11,12 @@
 Get the code:
 ```
 git clone https://github.com/anllogui/mastercienciadatos20.git
+```
 
 ### Configure environment
 
 Create environment:
+
 ```
 conda env create -f environment.yml
 conda activate mastercienciadatos20
